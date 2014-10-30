@@ -25,7 +25,7 @@ function start_up()
 {
 	clear screen
 	echo "#########################################################"
-	echo "# This will clean up your Diagnotics Area for  Oracle   #"
+	echo "# This will clean up your Diagnostics Area for  Oracle  #"
 	echo "#########################################################"
 
 	echo 
